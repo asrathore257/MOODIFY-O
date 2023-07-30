@@ -1,4 +1,4 @@
-## Movies Hub
+## MOODIFY
 
 A React App that leverages the power of the `TMDB API` to fetch movie details and provide personalized movie recommendations to the users. The app incorporates a `content-based` Machine Learning model that utilizes concepts like `bag of words` and `cosine similarities` to generate accurate movie suggestions based on user preferences. Additionally, the application implements `sentiment analysis` to analyze the sentiment of movie reviews and provide insights into the overall reception of a particular movie.
 
