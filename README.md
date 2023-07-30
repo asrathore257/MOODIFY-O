@@ -4,23 +4,6 @@ A React App that leverages the power of the `TMDB API` to fetch movie details an
 
 ## Screenshots
 
-![1](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/23b2c2d1-0d53-42d5-821b-f6ef766fda41)
-
-![2](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/d9031ca7-b19d-4f1a-a885-f1e6ae12cc49)
-
-![3](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/d2cce875-049f-45ba-b1eb-b27af659d1c1)
-
-![4](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/2c6f748f-021f-431f-9e44-47148f524b7b)
-
-![5](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/f15f6a07-0ed1-4aaa-a9f0-6a2ee353fa7f)
-
-![6](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/3383d315-b13c-43c2-b4e2-39a8ba1fd47d)
-
-![7](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/b8107bff-d01f-4e68-af80-9750ec088eff)
-
-![8](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/8452ca6e-b48d-463c-b471-b8d30d3c359d)
-
-![9](https://github.com/AreebAhmadSiddiqui/movies-hub/assets/87814983/e2eb5795-20fa-4aa9-a3aa-34e41e8084dc)
 
 
 ## Installation and Setup Instructions
@@ -42,7 +25,7 @@ To Start Server:
 
 Visit App:
 
-https://areebahmadsiddiqui.github.io/movies-hub/ 
+
 
 ## General Idea
 
@@ -65,16 +48,6 @@ The purpose of the Movie Recommendation and Sentiment Analysis React App is to a
   - Flask
   - Python
   - Machine Learning
-
-## For Machine Learning API and Notebooks
-
-  API
-  - https://github.com/AreebAhmadSiddiqui/movie-recommender-api
-  - https://github.com/AreebAhmadSiddiqui/movie-sentiment-prediction-api
-
-  Notebooks
-  - https://github.com/AreebAhmadSiddiqui/Movie-Recommendation-System
-  - https://github.com/AreebAhmadSiddiqui/Sentiment-Analysis
 
 ## Features
 
