@@ -73,7 +73,7 @@ function DisplayPage() {
         fetchPredData()
 
         setPredMovies([])
-    }, [id])
+    }, [id , cast_url, content_url, review_url, video_url])
 
     // console.log(reviewData);
     const castCard = cast.map((item) => {
