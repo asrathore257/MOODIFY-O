@@ -1,3 +1,7 @@
+// CarouselComponent.js
+import React from 'react';
+import { Link } from 'react-router-dom';
+
 function CarouselComponent({ title, backdrop_path, poster_path, overview, release_date, vote_average, id, media_type }) {
     return (
         <Link className='carousel-component' to={`/${media_type}/${id}`}>
@@ -12,3 +16,5 @@ function CarouselComponent({ title, backdrop_path, poster_path, overview, releas
         </Link>
     );
 }
+
+export default CarouselComponent;
